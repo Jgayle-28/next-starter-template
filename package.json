@@ -1,0 +1,33 @@
+{
+  "name": "next-starter-template",
+  "author": "Jerehme Gayle",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Jerehme Gayle",
+      "url": "https://www.jerehmegayle.com",
+      "email": "jerehme.gayle@gmail.com"
+    }
+  ],
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "framer-motion": "^4.1.17",
+    "next": "10.x",
+    "next-themes": "0.0.15",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
