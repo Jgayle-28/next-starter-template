@@ -4,7 +4,7 @@ This is a starter template that has a host of goodies and is a great starting pl
 <br/>
 <br/>
 
-## Includes
+## Techonologies & Features
 
 - Next.js
 - React
